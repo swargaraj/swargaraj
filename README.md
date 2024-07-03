@@ -3,13 +3,7 @@
 Welcome to my GitHub profile! I'm passionate about coding and love working on innovative projects. Here you can find some of my personal and professional projects, along with my contributions to the open-source community.
 
 ## 🚀 Tech Stack
-- **Languages**: JavaScript, Python, Rust
-- **Frontend**: React/Next
-- **Backend**: Node.js, Django, PHP
-- **Databases**: MySQL, PostgreSQL, MongoDB
-- **DevOps**: Docker, Kubernetes
-- **Cloud Providers**: DigitalOcean, Azure
-
+![My Stack](https://skillicons.dev/icons?i=js,py,rust,go,php,ts,svelte,threejs,electron,symfony,laravel,django,figma,tailwind,sass,less,fastapi,elasticsearch,supabase,redis,prisma,postgres,mongodb,mysql,kafka,r,selenium,nginx,azure,kali)
 ## 📊 GitHub Stats
 <table>
 	<tr>
